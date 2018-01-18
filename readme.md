@@ -1,1 +1,1 @@
-Blog App
+rails application with scaffold.
